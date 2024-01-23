@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek-monke&label=Profile%20views&color=0e75b6&style=flat" alt="geek-monke" /> </p>
 
-- 🌱 I’m currently learning *Android Development in Java*
-
-- 💬 Ask me about *C, Java*
+- 🌱 I’m currently learning *Web Development*
 
 - 📫 How to reach me *ghosharijeet86@gmail.com*
 
